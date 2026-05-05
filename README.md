@@ -30,3 +30,14 @@ hermes skills install https://raw.githubusercontent.com/boaozn/hermes-wsl-env/ma
 ## 许可
 
 MIT
+
+
+---
+
+## 💰 支持开发者
+
+如果这个工具帮到了你，欢迎请我喝杯咖啡 ☕
+
+![支付宝收款码](donate.jpg)
+
+需要定制开发或技术咨询，请联系：szboaozn@163.com
